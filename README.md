@@ -65,17 +65,17 @@ Makefile includes rules to add bonus and a .Phony to prevent issues in case ther
 
 `ft_itoa` - converts an integer to a string.
 
-`ft_putchar_fd` -
+`ft_putchar_fd` - writes a char to the given file descriptor.
 
-`ft_putendl_fd` -
+`ft_putendl_fd` - writes a string followed by a newline to the given file descriptor.
 
-`ft_putstr_fd` -
+`ft_putnbr_fd` - writes a integer to the given file descriptor.
 
-`ft_putnbr_fd` -
+`ft_putstr_fd` - writes a string to the given file descriptor.
 
 `ft_split` - splits a string using a given char as breaking point.
 
-`ft_striteri` - 
+`ft_striteri` - applies a function to each character of a string.
 
 `ft_strjoin` - concatenates two strings.
 
